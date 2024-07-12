@@ -1,10 +1,7 @@
-# Flow-seq
+# Waterbear analysis
 
-This is the analysis for Flow-seq.
+This is the analysis for Waterbear analysis.
 
-# Getting started
-
-Make sure to set the `BASE` variable in `config.py` to wherever you put this repository.
 
 # Necessary packages
 
@@ -14,6 +11,7 @@ Make sure to set the `BASE` variable in `config.py` to wherever you put this rep
 
 ## R
 
+- [Waterbear][https://github.com/pimentel/waterbear]
 - [MAUDE](https://github.com/Carldeboer/MAUDE)
 - [MAGeCK](https://sourceforge.net/p/mageck/wiki/Home/)
 
