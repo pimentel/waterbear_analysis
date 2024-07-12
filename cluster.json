@@ -1,0 +1,30 @@
+{
+    "__default__" :
+    {
+        "time" : "03:00:00",
+        "n" : 1,
+        "partition" : "pritch,normal,owners",
+        "memory" : "4000"
+    },
+    "dmult_nimble_mcmc_flexible_bins":
+    {
+        "time" : "10:00:00",
+        "n" : 1,
+        "partition" : "pritch",
+        "memory" : "64000"
+    },
+    "dmult_nimble_mcmc":
+    {
+        "time" : "48:00:00",
+        "n" : 1,
+        "partition" : "pritch",
+        "memory" : "64000"
+    },
+    "nb_nimble_mcmc":
+    {
+        "time" : "96:00:00",
+        "n" : 1,
+        "partition" : "pritch",
+        "memory" : "64000"
+    }
+}
